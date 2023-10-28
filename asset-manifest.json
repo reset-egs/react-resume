@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.02615573.css",
+    "main.js": "/react-resume/static/js/main.b3d5b68c.js",
+    "static/js/787.be9df7c6.chunk.js": "/react-resume/static/js/787.be9df7c6.chunk.js",
+    "static/media/sourcesanspro-regular-webfont.woff": "/react-resume/static/media/sourcesanspro-regular-webfont.c4e25ab10baa365dfc66.woff",
+    "static/media/helvetica-neu.ttf": "/react-resume/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/sourcesanspro-regular-webfont.woff2": "/react-resume/static/media/sourcesanspro-regular-webfont.e7bccfa631a0017f31da.woff2",
+    "static/media/logo-s.png": "/react-resume/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/react-resume/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-resume/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-resume/index.html",
+    "main.02615573.css.map": "/react-resume/static/css/main.02615573.css.map",
+    "main.b3d5b68c.js.map": "/react-resume/static/js/main.b3d5b68c.js.map",
+    "787.be9df7c6.chunk.js.map": "/react-resume/static/js/787.be9df7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02615573.css",
+    "static/js/main.b3d5b68c.js"
+  ]
+}
