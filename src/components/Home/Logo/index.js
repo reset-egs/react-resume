@@ -1,8 +1,8 @@
 import './index.scss';
 import LogoS from '../../../assets/images/logo-s.png';
 import { useEffect, useRef } from 'react';
-import gsap from 'gsap-trial';
-import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin';
+import gsap from 'gsap';
+import RoughEase from 'gsap/EasePack';
 
 
 const Logo = () => {
@@ -12,7 +12,7 @@ const Logo = () => {
     const solidLogoRef = useRef();
 
     useEffect(() => {
-        gsap.registerPlugin(DrawSVGPlugin)
+        gsap.registerPlugin(RoughEase)
 
         gsap
             .timeline()
@@ -21,7 +21,7 @@ const Logo = () => {
                 opacity: 1,
             })
             .from(outlineLogoRef.current, {
-                drawSVG: "0% 100%",
+                RoughEase: true,
                 duration: 20,
             });
 
