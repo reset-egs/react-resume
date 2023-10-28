@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-resume/static/css/main.02615573.css",
-    "main.js": "/react-resume/static/js/main.c7732071.js",
+    "main.js": "/react-resume/static/js/main.8096d199.js",
     "static/js/787.be9df7c6.chunk.js": "/react-resume/static/js/787.be9df7c6.chunk.js",
     "static/media/sourcesanspro-regular-webfont.woff": "/react-resume/static/media/sourcesanspro-regular-webfont.c4e25ab10baa365dfc66.woff",
     "static/media/helvetica-neu.ttf": "/react-resume/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/react-resume/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/react-resume/index.html",
     "main.02615573.css.map": "/react-resume/static/css/main.02615573.css.map",
-    "main.c7732071.js.map": "/react-resume/static/js/main.c7732071.js.map",
+    "main.8096d199.js.map": "/react-resume/static/js/main.8096d199.js.map",
     "787.be9df7c6.chunk.js.map": "/react-resume/static/js/787.be9df7c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02615573.css",
-    "static/js/main.c7732071.js"
+    "static/js/main.8096d199.js"
   ]
 }
